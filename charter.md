@@ -1,6 +1,6 @@
 # [DRAFT] WebViews Community Group Charter
 
-This Charter is work in progress. To submit feedback, please use [the GitHub repo](https://github.com/WebView-CG/charter) Issues where this chharter is being developed.
+This Charter is work in progress. To submit feedback, please use [the GitHub repo](https://github.com/WebView-CG/charter) Issues where this charter is being developed.
 
 ## Goals
 
@@ -11,15 +11,15 @@ The WebViews Community Group aims to reduce the issues arising from the use of s
 In the first phase of work that this charter covers, the WebViews Community Group will:
 * identify representative use cases of where WebViews are being used,
 * identify the issues that arise from these usages,
-* suggest if these issues can be addressed through improvements to the Web Platform, improvements to its surrounding ecosystem (e.g. documentation, testing frameworks) or through other mechanisms,
-* raise awareness of the impact of WebViews in usage of Web technologies beyond Web browsers in relevant communities (e.g. existing W3C groups).
+* determine whether these issues can be addressed through improvements to the Web Platform, the surrounding ecosystem (e.g. documentation, testing frameworks) or through other mechanisms,
+* raise awareness about the impact of WebViews for Web technologies in relevant communities (e.g. existing W3C groups)
 
 The group will not publish Specifications on topics other than those listed under Specifications above. See below for [how to modify the charter](#amendments-to-this-charter).
 
 
 ### Out of Scope
 
-Specific development of technical proposals to mitigate these issues are out of scope of this charter; the group expects to [amend its charter](#amendments-to-this-charter) with a specific list of mitigations it would seek to address in a second phase of work, based on the analysis conducted as described above.
+Specific development of technical proposals to mitigate identified issues are out of scope of this charter; the group expects to [amend its charter](#amendments-to-this-charter) with a specific list of mitigations it would seek to address in a second phase of work, based on the analysis conducted as described above.
 
 ## Deliverables
 
