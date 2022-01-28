@@ -29,7 +29,7 @@ Specific development of technical proposals to mitigate identified issues are ou
 
 ## Dependencies or Liaisons
 
-* [MiniApps Ecosystems Community Group](https://www.w3.org/community/miniapps/): MiniApps rely extensively on WebViews
+* [MiniApps Ecosystems Community Group](https://www.w3.org/community/miniapps/) and [MiniApps Working Group](https://www.w3.org/groups/wg/miniapps): MiniApps rely extensively on WebViews
 * [Web Application Security Working Group](https://www.w3.org/2011/webappsec/): the Web Application Security Working Group oversees the security model applied to Web content in browsers, which impacts Web technologies used outside of that context
 
 ## Community and Business Group Process
