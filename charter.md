@@ -4,12 +4,12 @@ This Charter is work in progress. To submit feedback, please use [the GitHub rep
 
 ## Goals
 
-The WebViews Community Group aims to reduce the issues arising from the use of software components (typically referred as `WebView`s) that are used to render Web technology-based content outside of a Web browser (Native Apps, MiniApps, etc).
+The WebViews Community Group aims to identify, understand and reduce the issues arising from the use of software components (typically referred as `WebView`s) that are used to render Web technology-based content outside of a Web browser (Native Apps, MiniApps, etc).
 
 ## Scope of Work
 
 In the first phase of work that this charter covers, the WebViews Community Group will:
-* identify representative use cases of where WebViews are being used,
+* identify representative use cases of where WebViews are being used, regardless of the platform and type of device they're used on,
 * identify the issues that arise from these usages,
 * determine whether these issues can be addressed through improvements to the Web Platform, the surrounding ecosystem (e.g. documentation, testing frameworks) or through other mechanisms,
 * raise awareness about the impact of WebViews for Web technologies in relevant communities (e.g. existing W3C groups)
@@ -24,6 +24,8 @@ Specific development of technical proposals to mitigate identified issues are ou
 ## Deliverables
 
 ### Non-Normative Reports
+
+The group intends to deliver a draft of the following report in time for [TPAC 2022](https://www.w3.org/wiki/TPAC/2022):
 
 * WebView use cases and limitations: a document describing the type of use WebViews fulfill and the challenges they create in distributing content and applications built on top of Web technologies.
 
