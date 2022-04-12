@@ -1,2 +1,2 @@
 # charter
-[Draft charter](https://github.com/WebView-CG/charter/blob/main/charter.md) for a W3C WebView Community Group
+[Charter](https://github.com/WebView-CG/charter/blob/main/charter.md) of the W3C WebView Community Group
