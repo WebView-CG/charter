@@ -1,7 +1,5 @@
 # WebView Community Group Charter
 
-This Charter is work in progress. To submit feedback, please use [the GitHub repo](https://github.com/WebView-CG/charter) Issues where this charter is being developed.
-
 ## Goals
 
 The WebView Community Group aims to identify, understand and reduce the issues arising from the use of software components (typically referred as `WebView`s) that are used to render Web technology-based content outside of a Web browser (Native Apps, MiniApps, etc).
