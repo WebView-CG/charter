@@ -16,7 +16,7 @@ The WebView Community Group will:
 
 The following things are out of scope:
 * Proposals that are not applicable to WebViews as defined in this charter (e.g. proposals on browser related improvements),
-* Technical Specifications
+* Normative specifications. Actual incubation of the explainers developed by the group is not in scope of this charter.
 
 ## Deliverables
 
