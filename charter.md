@@ -2,30 +2,31 @@
 
 ## Goals
 
-The WebView Community Group aims to identify, understand and reduce the issues arising from the use of software components (typically referred as `WebView`s) that are used to render Web technology-based content outside of a Web browser (Native Apps, MiniApps, etc).
+The WebView Community Group aims to identify, understand, and reduce the issues arising from the use of software components (typically referred as `WebView`s) that are used to render Web technology-based content outside of a Web browser (Native Apps, MiniApps, etc).
 
 ## Scope of Work
 
-In the first phase of work that this charter covers, the WebView Community Group will:
-* identify representative use cases of where WebViews are being used, regardless of the platform and type of device they're used on,
-* identify the issues that arise from these usages,
-* determine whether these issues can be addressed through improvements to the Web Platform, the surrounding ecosystem (e.g. documentation, testing frameworks) or through other mechanisms,
+The WebView Community Group will:
+* identify the issues, challenges, and limitations that arise from the usage of WebViews, regardless of the platform and type of device they're used on,
+* determine whether they can be addressed through improvements to the Web Platform, WebView capabilities, the surrounding ecosystem (e.g. documentation, testing frameworks), or through other mechanisms,
+* develop technical proposals (explainers) targetting the agreed upon issues, challenges, and limitations that would be implemented in a WebView,
 * raise awareness about the impact of WebViews for Web technologies in relevant communities (e.g. existing W3C groups)
-
-The group will not publish Specifications on topics other than those listed under Specifications above. See below for [how to modify the charter](#amendments-to-this-charter).
-
 
 ### Out of Scope
 
-Specific development of technical proposals to mitigate identified issues are out of scope of this charter; the group expects to [amend its charter](#amendments-to-this-charter) with a specific list of mitigations it would seek to address in a second phase of work, based on the analysis conducted as described above.
+The following things are out of scope:
+* Proposals that are not applicable to WebViews as defined in this charter (e.g. proposals on browser related improvements),
+* Normative specifications. Actual incubation of the explainers developed by the group is not in scope of this charter.
 
 ## Deliverables
 
 ### Non-Normative Reports
 
-The group intends to deliver a draft of the following report in time for [TPAC 2022](https://www.w3.org/wiki/TPAC/2022):
+* WebView use cases and limitations: a [document](https://webview-cg.github.io/usage-and-challenges/) describing the type of use WebViews fulfill and the challenges they create in distributing content and applications built on top of Web technologies.
 
-* WebView use cases and limitations: a document describing the type of use WebViews fulfill and the challenges they create in distributing content and applications built on top of Web technologies.
+  The group intends to continue updating the document with relevant usages and challenges.
+
+* Technical proposals: Explainers outlining solutions for the agreed upon challenges.
 
 ## Dependencies or Liaisons
 
