@@ -23,8 +23,8 @@ The following things are out of scope:
 
 ### Non-Normative Data
 
-* Machine-readable data describing the API differences between different WebView & browser implementations are available
-to documentation platforms and other tools, by February 2025
+* Machine-readable data describing the differences between WebView & browser implementations that can be consumed by
+documentation platforms and other tools, by February 2025
 
 ### Non-Normative Reports
 
