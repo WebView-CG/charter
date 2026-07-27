@@ -32,6 +32,7 @@ documentation platforms and other tools.
 
   The group intends to continue updating the document with relevant usages and challenges.
 
+* Security guidance and documentation for WebView users, developers and implementers.
 * Technical proposals: Explainers outlining solutions for the agreed upon challenges.
 
 ## Dependencies or Liaisons
