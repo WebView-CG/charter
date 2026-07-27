@@ -40,6 +40,7 @@ documentation platforms and other tools.
 * [WebDX Community Group](https://www.w3.org/community/webdx/): the WebDX CG maintains [web-features](https://web-platform-dx.github.io/web-features-project/) and [Baseline](https://web-platform-dx.github.io/baseline/)
 * [MiniApps Ecosystems Community Group](https://www.w3.org/community/miniapps/) and [MiniApps Working Group](https://www.w3.org/groups/wg/miniapps): MiniApps rely extensively on WebViews
 * [Web Application Security Working Group](https://www.w3.org/2011/webappsec/): the Web Application Security Working Group oversees the security model applied to Web content in browsers, which impacts Web technologies used outside of that context
+* [Threat Modeling Community Group](https://www.w3.org/community/tmcg/): exchange with Security, Privacy, and Human Rights experts for describing security properties of WebViews.
 
 ## Community and Business Group Process
 
