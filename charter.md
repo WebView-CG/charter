@@ -24,7 +24,7 @@ The following things are out of scope:
 ### Non-Normative Data
 
 * Machine-readable data describing the differences between WebView & browser implementations that can be consumed by
-documentation platforms and other tools, by February 2025
+documentation platforms and other tools.
 
 ### Non-Normative Reports
 
@@ -36,6 +36,7 @@ documentation platforms and other tools, by February 2025
 
 ## Dependencies or Liaisons
 
+* [WebDX Community Group](https://www.w3.org/community/webdx/): the WebDX CG maintains [web-features](https://web-platform-dx.github.io/web-features-project/) and [Baseline](https://web-platform-dx.github.io/baseline/)
 * [MiniApps Ecosystems Community Group](https://www.w3.org/community/miniapps/) and [MiniApps Working Group](https://www.w3.org/groups/wg/miniapps): MiniApps rely extensively on WebViews
 * [Web Application Security Working Group](https://www.w3.org/2011/webappsec/): the Web Application Security Working Group oversees the security model applied to Web content in browsers, which impacts Web technologies used outside of that context
 
