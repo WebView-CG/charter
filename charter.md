@@ -41,6 +41,7 @@ documentation platforms and other tools.
 * [MiniApps Ecosystems Community Group](https://www.w3.org/community/miniapps/) and [MiniApps Working Group](https://www.w3.org/groups/wg/miniapps): MiniApps rely extensively on WebViews
 * [Web Application Security Working Group](https://www.w3.org/2011/webappsec/): the Web Application Security Working Group oversees the security model applied to Web content in browsers, which impacts Web technologies used outside of that context
 * [Threat Modeling Community Group](https://www.w3.org/community/tmcg/): exchange with Security, Privacy, and Human Rights experts for describing security properties of WebViews.
+* [Documentation Community Group](https://www.w3.org/community/docs-cg/): Docs CG works on compatibility, security and privacy documentation for web developers and designers to build things on the web platform
 
 ## Community and Business Group Process
 
