@@ -42,6 +42,7 @@ documentation platforms and other tools.
 * [Web Application Security Working Group](https://www.w3.org/2011/webappsec/): the Web Application Security Working Group oversees the security model applied to Web content in browsers, which impacts Web technologies used outside of that context
 * [Threat Modeling Community Group](https://www.w3.org/community/tmcg/): exchange with Security, Privacy, and Human Rights experts for describing security properties of WebViews.
 * [Documentation Community Group](https://www.w3.org/community/docs-cg/): Docs CG works on compatibility, security and privacy documentation for web developers and designers to build things on the web platform
+* [Embedded Web Engines & Native Web Runtimes Community Group](https://www.w3.org/community/embedded-web-engines/): coordinate work on embedded engines 
 
 ## Community and Business Group Process
 
